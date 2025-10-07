@@ -1,0 +1,30 @@
+Tue Sep 30 14:06:09 2025
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Sep 30 14:06:09 2025
+No ARsim registration found!
+
+Tue Sep 30 14:06:09 2025
+InstanceName: 01dc31fa39c418d0
+
+Tue Sep 30 14:06:09 2025
+WorkingDirectory: C:\Users\admin\Desktop\memes\Zaoshanghaojongwo\Temp\Simulation\Config1\4PP065_0351_P74\
+
+Tue Sep 30 14:06:09 2025
+COMMAND_COLDSTART
+
+Tue Sep 30 14:06:11 2025
+Version: D4.52
+
+Tue Sep 30 14:06:13 2025
+COMMAND_TERMINATE
+
+Tue Sep 30 14:06:13 2025
+COMMAND_COLDSTART
+
+Tue Sep 30 14:06:15 2025
+Version: D4.52
+
+Tue Sep 30 15:27:28 2025
+COMMAND_TERMINATE
+
